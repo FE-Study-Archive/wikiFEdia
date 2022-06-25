@@ -3,17 +3,22 @@
 #### 📌 목차
 
 1. [**Language**](#1-language)
-	1.1 [JavaScript](#1-1--javascript) 
+
+  ​	1.1  [JavaScript](#1-1--javascript) 
 
 2. [**Framework**](#2-framework)
-	2.1 [React](#2-1-react)
-	2.2 [Vue](#2-2-vue)
+
+  ​	2.1 [React](#2-1-react)
+
+  ​	2.2 [Vue](#2-2-vue)
 
 3. [**Library**](#3-library)
-	3.1 [SCSS](#3-1-scss)
+
+  ​	3.1 [SCSS](#3-1-scss)
 
 4. [**ETC**](#4-etc)
-	4.1 [GIT](#4-1-git)
+
+  ​	4.1 [GIT](#4-1-git)
 
 <br>
 

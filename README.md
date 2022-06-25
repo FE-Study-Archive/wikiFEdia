@@ -1,19 +1,24 @@
 # wikiFEdia, 우리의 FE 백과사전
 
-#### 📌 목차
+#### 목차
 
-1️⃣ [Language**](#1-language)
-	1.1  [JavaScript](#1-1--javascript) 
+1️⃣ [**Language**](#1-language)
+
+​    1.1  [JavaScript](#1-1--javascript) 
 
 2️⃣ [**Framework**](#2-framework)
-	2.1 [React](#2-1-react)
-	2.2 [Vue](#2-2-vue)
+
+​    2.1 [React](#2-1-react)
+
+​    2.2 [Vue](#2-2-vue)
 
 3️⃣ [**Library**](#3-library)
-	3.1 [SCSS](#3-1-scss)
+
+​    3.1 [SCSS](#3-1-scss)
 
 4️⃣ [**ETC**](#4-etc)
-	4.1 [GIT](#4-1-git)
+
+​    4.1 [GIT](#4-1-git)
 
 <br>
 

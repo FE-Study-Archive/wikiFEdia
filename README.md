@@ -55,7 +55,7 @@
 | 리액트 훅 소개                                | [링크](김지영/220708.md) | 김지영 | 220708 | `useEffect`, `React.memo()`<br />`useCallback`, `useMemo` |
 | 리액트 훅을 활용한 HTTP 요청 보내기           | [링크](황상윤/220624.md) | 황상윤 | 220624 | `useState`,  `useEffect`                                  |
 | 리액트 커스텀훅으로 비동기 HTTP 요청 보내기         | [링크](이원우/220722.md) | 이원우 | 220722 | `customHook`,  `useHttp`                                  |
-| 리액트를 활용하여 캘린더 만들기      | [링크](황상윤/220812.md) | 황상윤 | 220812 | `momment.js`,  `styled-component`                                  |
+| 리액트를 활용하여 캘린더 만들기      | [링크](황상윤/220812.md) | 황상윤 | 220812 | `momment.js`                               |
 
 <br>
 
